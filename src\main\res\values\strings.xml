@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">trial 1</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="logo_desc">Logo</string>
+    <string name="profile_icon_desc">Profile icon</string>
+    <string name="icon_desc">Icon</string>
+
+    <!-- Story Names -->
+    <string name="your_story">Your Story</string>
+    <string name="olivia_rodrigo">OliviaRodrigo</string>
+    <string name="taylor_swift">TaylorSwift</string>
+    <string name="megumi_f">Megumi.F</string>
+    <string name="reze">Reze.</string>
+    <string name="kageyama">Kageyama</string>
+
+    <!-- Post 1 Content -->
+    <string name="peter_man">Peter Man</string>
+    <string name="peter_post_time">1hr ago - 🎵Bleeding Love(Leona Lewis)</string>
+    <string name="peter_post_text">payag ka ikaw si spiderman? malakas kumapit pero siya yung bumitaw</string>
+    <string name="peter_post_hashtags">#spidermanbrandnewday #gagamboy</string>
+
+    <!-- Post 2 Content -->
+    <string name="tom_hansen">Tom Hansen</string>
+    <string name="tom_post_time">10mins ago</string>
+
+    <!-- Image & Icon Descriptions -->
+    <string name="desc_user_avatar">User Avatar</string>
+    <string name="desc_more_options">More options</string>
+    <string name="desc_like">Like</string>
+    <string name="desc_share">Share</string>
+    <string name="desc_comment">Comment</string>
+    <string name="desc_retweet">Retweet</string>
+    <string name="desc_post_image">Post Image</string>
+    <string name="desc_search">Search</string>
+    <string name="desc_notifications">Notifications</string>
+    <string name="desc_super_button">Super Button Add</string>
+    <string name="desc_send_messages">Send Messages</string>
+    <string name="desc_hashtag_profile">Hashtag Profile</string>
+
+    <!-- Second Activity -->
+    <string name="welcome_second">Welcome to Second Activity!</string>
+    <string name="back_to_main">&lt; rxsnk_</string>
+</resources>

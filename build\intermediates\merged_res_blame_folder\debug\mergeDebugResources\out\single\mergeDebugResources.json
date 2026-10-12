@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.example.trial1.app-debug-40:/drawable_zxcvb.png.flat",
+        "source": "com.example.trial1.app-main-42:/drawable/zxcvb.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_comment.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\comment.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_hashtag.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\hashtag.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_buble_chat.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\buble_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\menu_my_buttons.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\menu\\my_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_casual.jpg.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\casual.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable__3b4ca781_9b0a_4cc8_91af_caee0b1a4a8c.jpg.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\_3b4ca781_9b0a_4cc8_91af_caee0b1a4a8c.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_heart.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_magnifying_glass.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\magnifying_glass.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_qwerty.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\qwerty.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable__2.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\_2.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_paper_plane.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\paper_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_hashtag__500_x_500_px___3_.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\hashtag__500_x_500_px___3_.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_header_border.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\header_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable__6.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\_6.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_add_button.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\add_button.png"
+    },
+    {
+        "merged": "com.example.trial1.app-debug-40:/layout_activity_second.xml.flat",
+        "source": "com.example.trial1.app-main-42:/layout/activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_baseline_more_horiz_24.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\baseline_more_horiz_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable__5.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\_5.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_hashtag__500_x_500_px___4_.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\hashtag__500_x_500_px___4_.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_hashtag__500_x_500_px___1_.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\hashtag__500_x_500_px___1_.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_white_rounded_bg.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\white_rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_retweet.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\retweet.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_heart__1_.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\heart__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_hashtag__1_.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\hashtag__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable__4.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\_4.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_send.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_bottomnavbar_border.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\bottomnavbar_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable__8.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\_8.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_post.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\post.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable_search.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-debug-40:\\drawable__1.png.flat",
+        "source": "C:\\Users\\rexxa\\.gradle\\daemon\\9.5.0\\com.example.trial1.app-main-42:\\drawable\\_1.png"
+    }
+]
